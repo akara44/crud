@@ -1,1 +1,1 @@
-#PHP ile geliştirdiğim ccrud sistemi
+# PHP ile geliştirdiğim crud sistemi

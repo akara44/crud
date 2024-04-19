@@ -1,2 +1,2 @@
-# PHP ile geliştirdiğim crud sistemi
+# PHP ile geliştirdiğim crud sistemi.
 ![login](crud.PNG)
